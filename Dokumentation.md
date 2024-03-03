@@ -40,7 +40,8 @@ Mein Projekt ist ein einfaches Taschenrechner in Winforms.
 ### 1.4 Diagramme
 
 
-![Screenshot 2024-01-19 083534](https://github.com/Plasticgun21/LA1303/assets/110892742/1bc169e7-30ee-4a49-98ee-58b4f6268177)
+![Screenshot 2024-01-19 083534](https://github.com/Plasticgun21/LA1303-Taschenrechner/assets/110892742/bb0f0f2c-15a5-423e-9f1f-afd09c82da51)
+
 
 
 ## 2 Planen
